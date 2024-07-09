@@ -17,3 +17,7 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+![image](https://github.com/labheshjoshi/Disease_prediction1/assets/129281226/b174b462-1a01-4993-95d0-92659347095b)
+
+Link of Streamlit app   
+https://diseaseprediction-a4mujpzlkhdtncgarqtmnv.streamlit.app/
